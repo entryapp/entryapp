@@ -1,2 +1,0 @@
-# entryapp
-home page
